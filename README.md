@@ -1,6 +1,7 @@
 # Damien Hirst Dot Painting Generator
 
-![Preview](docs/preview.png)
+![Preview](https://github.com/user-attachments/assets/45a38856-724d-40dc-b8fb-5ed753944e6f)
+
 
 A lightweight Python Turtle script that recreates the look of Damien Hirst's iconic Spot paintings. Run the program and watch as a 10 x 10 grid of brightly coloured dots appears on your screen.
 
